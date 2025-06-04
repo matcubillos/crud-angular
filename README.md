@@ -1,6 +1,6 @@
-# Prueba técnica Angular app
+# Prueba técnica Angular C.R.U.D
 
-## Necesitas instalar
+## Requisito:
 Node.js (proyecto hecho con node 20.11)
 
 ## Server de desarrollo
@@ -10,16 +10,16 @@ Ejecuta en la raíz del proyecto
 $ npm install
 ```
 
-Instala el cli en tu línea de comandos
+Instala Angular cli en tu línea de comandos
 ```bash
 $ npm install -g @angular/cli
 ```
 
-Ejecuta en la raiz del proyecto con en tu línea de comandos
+Ejecuta en la raiz del proyecto, con en tu línea de comandos:
 ```bash
 $ ng serve
 ```
-finalmente, para visualizar el server de desarollo. Navega a `http://localhost:4200/` para visualizar la página.
+Finalmente, para visualizar el server de desarollo, navega a `http://localhost:4200/` para visualizar la página.
 
 
 
